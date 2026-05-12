@@ -166,7 +166,7 @@ You agree to defend, indemnify, and hold harmless SelTopia and its affiliates, o
 
 ## 16. Governing Law
 
-These Terms and any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be governed by and construed in accordance with the laws of the People's Republic of China, without regard to its conflict of laws principles.
+These Terms and any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be governed by and construed in accordance with the laws of Hong Kong, without regard to its conflict of laws principles.
 
 Any dispute arising out of or relating to these Terms or the Service shall be brought before the courts of competent jurisdiction in Shanghai, People's Republic of China, unless otherwise required by applicable law.
 
